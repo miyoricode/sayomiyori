@@ -110,9 +110,6 @@ class SayomiYori:
 
 </td>
 <td width="50%" valign="top">
-
-### 🤖 [AgentHub](https://github.com/sayomiyori/AgentHub)
-...
     
 <tr>
 <td width="50%" valign="top">
