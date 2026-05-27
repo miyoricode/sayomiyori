@@ -218,17 +218,6 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [ChillLibrary](https://github.com/sayomiyori/ChillLibraryTgBot) + [BodyTelling](https://github.com/sayomiyori/BodyTellingTelegramBot)
-**Commercial Telegram bots — delivered to clients**
-
-`aiogram` `Gemini AI` `Google APIs` `APScheduler` `pytest`
-
-- 🔍 ChillLibrary: 3 search modes (title, photo OCR, quote AI)
-- 💪 BodyTelling: workout algorithm, streaks, TZ-aware reminders
-- ✅ Both delivered and accepted without revisions
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
